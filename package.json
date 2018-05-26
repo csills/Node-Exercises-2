@@ -1,0 +1,14 @@
+{
+  "name": "node-exercises-2",
+  "version": "1.0.0",
+  "description": "this package contains two refactoring exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "csills",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
